@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/faboptions_take_photo"
+            android:icon="@drawable/instagram_social_network_logo_of_photo_camera"
+            android:title="Take Photo" />
+
+        <item
+            android:id="@+id/faboptions_save"
+            android:icon="@drawable/save"
+            android:title="SAVE" />
+</menu>

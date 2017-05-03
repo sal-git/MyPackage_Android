@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyPackage</string>
+    <string name="title_activity_saved_packages">SavedPackages</string>
+    <string name="title_activity_track_package">TrackPackage</string>
+
+    <string-array name="carriers">
+
+        <item>Aramex</item>
+        <item>ChinaEMS</item>
+        <item>DHLExpress</item>
+        <item>DHLEcommerceAsia</item>
+        <item>DHLFreight</item>
+        <item>DHLGlobalMail</item>
+        <item>DHLGlobalmailInternational</item>
+        <item>Dominos</item>
+        <item>EcomExpress</item>
+        <item>FedEx</item>
+        <item>FedExUK</item>
+        <item>FedExMailview</item>
+        <item>Fastway</item>
+        <item>GLS</item>
+        <item>HongKongPost</item>
+        <item>IndiaPost</item>
+        <item>IsraelPost</item>
+        <item>Network4</item>
+        <item>NanjingWoyuan</item>
+        <item>OnTracDirectPost</item>
+        <item>OnTrac</item>
+        <item>OrangeDS</item>
+        <item>Parcelforce</item>
+        <item>RoyalMail</item>
+        <item>SingaporePost</item>
+        <item>SMSAExpress</item>
+        <item>SpeeDee</item>
+        <item>UberRUSH</item>
+        <item>UDS</item>
+        <item>UPS</item>
+        <item>USPS</item>
+        <item>Yodel</item>
+
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

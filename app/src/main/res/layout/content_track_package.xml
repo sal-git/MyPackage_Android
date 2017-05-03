@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_track_package"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.stephenlightcap.mypackage.TrackPackage"
+    tools:showIn="@layout/activity_track_package">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Spinner
+                android:layout_width="104dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner_carrier" />
+
+            <EditText
+                android:layout_width="277dp"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:hint="TRACKING NUMBER HERE"
+                android:ems="10"
+                android:id="@+id/editText_tracking_number_search"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/button_search_tracking_number"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FIND" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_tracking_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.23" />
+
+    </LinearLayout>
+
+</RelativeLayout>

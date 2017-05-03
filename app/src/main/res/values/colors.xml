@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ebd2af</color>
+    <color name="colorPrimaryDark">#d2b493</color>
+    <color name="colorAccent">#FFD7AD</color>
+    <color name="black">#000</color>
+    <color name="green">#72ff7e</color>
+
+    <color name="gridLayoutShadow">#FC9b784a</color>
+</resources>
