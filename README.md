@@ -2,7 +2,7 @@
 
 Course project for Computer Science. 
 
-# Features / TODO's
+# Features / TODOs
 
 - [x] Connects to REST API
 - [x] Update users packages
