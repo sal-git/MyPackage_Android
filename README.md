@@ -20,5 +20,5 @@ Course project for Computer Science.
 
 ![picture alt](https://github.com/sal-git/MyPackage_Android/blob/master/web_image_sources/fJRjUv.gif?raw=true
  "Title is optional") ![picture alt]( https://github.com/sal-git/MyPackage_Android/blob/master/web_image_sources/pANEmZ.gif?raw=true
- "Title is optional") 
+ "Title is optional") ![picture alt](https://github.com/sal-git/MyPackage_Android/blob/master/web_image_sources/BWbSm1.gif?raw=true)
  
